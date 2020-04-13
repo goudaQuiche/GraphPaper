@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>GraphPaper</name>
+	<name>GraphPaper - src</name>
 	<author>Gouda quiche</author>
 	<url>https://github.com/goudaQuiche</url>
 	<supportedVersions>
@@ -8,5 +8,9 @@
 	</supportedVersions>
 	<packageId>goudaquiche.GraphPaper.src</packageId>
 	
-	<description>GraphPaper for offsets</description>
+	<description>Meant for mod creators.
+3 floor textures to :
+- align things
+- guess offsets
+- make your textures look like garbage</description>
 </ModMetaData>
