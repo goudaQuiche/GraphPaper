@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- GraphPaper -->
+	<TerrainDef ParentName="FloorBase">
+		<defName>GraphPaper_MedRed</defName>
+		<label>GraphPaper_MedRed</label>
+		<description>GraphPaper 512x512 px</description>
+		<texturePath>Terrain/Surfaces/GraphPaper512</texturePath>
+		<edgeType>Hard</edgeType>
+		<constructEffect>ConstructMetal</constructEffect>
+		
+		<statBases>
+			<Beauty>1</Beauty>
+			<WorkToBuild>1</WorkToBuild>
+		</statBases>
+
+		<pathCost>0</pathCost>
+		
+		<costList>
+			<Steel>1</Steel>
+		</costList>
+
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorBase">
+		<defName>GraphPaper_HighRes</defName>
+		<label>GraphPaper_HighRes</label>
+		<description>GraphPaper 1024x1024 px</description>
+		<texturePath>Terrain/Surfaces/GraphPaper1024</texturePath>
+		<edgeType>Hard</edgeType>
+		<constructEffect>ConstructMetal</constructEffect>
+		
+		<statBases>
+			<Beauty>1</Beauty>
+			<WorkToBuild>1</WorkToBuild>
+		</statBases>
+
+		<pathCost>0</pathCost>
+		
+		<costList>
+			<Steel>1</Steel>
+		</costList>
+
+	</TerrainDef>
+
+	<TerrainDef ParentName="FloorBase">
+		<defName>GraphPaper_HighResPlus</defName>
+		<label>GraphPaper_HighResPlus</label>
+		<description>GraphPaper 1024x1024 px plus</description>
+		<texturePath>Terrain/Surfaces/GraphPaper1024plus</texturePath>
+		<edgeType>Hard</edgeType>
+		<constructEffect>ConstructMetal</constructEffect>
+		
+		<statBases>
+			<Beauty>1</Beauty>
+			<WorkToBuild>1</WorkToBuild>
+		</statBases>
+
+		<pathCost>0</pathCost>
+		
+		<costList>
+			<Steel>1</Steel>
+		</costList>
+
+	</TerrainDef>
+</Defs>
