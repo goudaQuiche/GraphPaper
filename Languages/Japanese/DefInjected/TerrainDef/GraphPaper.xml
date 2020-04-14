@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GraphPaper -->
+
+  <GraphPaper_MedRed.label>方眼用紙 中間解像度</GraphPaper_MedRed.label>
+  <GraphPaper_MedRed.description>方眼用紙 512x512 pix</GraphPaper_MedRed.description>
+
+  <GraphPaper_HighRes.label>方眼用紙 高解像度</GraphPaper_HighRes.label>
+  <GraphPaper_HighRes.description>方眼用紙 1024x1024 pix</GraphPaper_HighRes.description>
+
+  <GraphPaper_HighResPlus.label>方眼用紙 高解像度Plus</GraphPaper_HighResPlus.label>
+  <GraphPaper_HighResPlus.description>方眼用紙 1024x1024 pix plus</GraphPaper_HighResPlus.description>
+
+</LanguageData>
